@@ -16,11 +16,12 @@ UX / UI design for an artist specializing in pop up art.
 <br>
 <br>
 <hr>
+<hr>
 <br>
 <br>
 <br>
 
-<b> Wireframe (Desktop)</b>
+<b> Wireframe (Mobile)</b>
 
 <br>
 <br>
